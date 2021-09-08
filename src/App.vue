@@ -1,9 +1,14 @@
 <template>
   <div id="nav">
+    aaaa
   </div>
-  <router-view />
+  
 </template>
-
+<script>
+export default {
+  
+}
+</script>
 <style lang="scss">
 #app{}
 </style>
